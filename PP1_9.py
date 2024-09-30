@@ -2,23 +2,27 @@
 
 def q1(): 
   #Write Assignment code here
-
+ print("Hello World")
 
 def q2(): 
   #Write Assignment code here
-
-
+ word = "Hello World"
+ wordUpper = word.lower
+ print(word.lower())
+ print(word.upper())
 def q3(): 
   #Write Assignment code here
 
 
 def q4(): 
   #Write Assignment code here
-
+ word = "Hello World"
+ print(word.index("o"))
 
 def q5(): 
   #Write Assignment code here
-
+ word = "Hello World"
+ print(len(word))
 
 
 #Do not alter the following code
